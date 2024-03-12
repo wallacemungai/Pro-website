@@ -53,3 +53,4 @@ function showAnimalDetails(characters) {
     allCharactersDiv.classList.remove('hidden');
   });
 }
+
